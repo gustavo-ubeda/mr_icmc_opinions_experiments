@@ -13,7 +13,7 @@ Nesta etapa, os dados brutos são coletados de duas fontes distintas:
 - **Reclame Aqui:** Dados de reclamações extraídos através de um scraper.
 - **Consumidor.gov:** Arquivos CSV contendo reclamações.
 
-Os dados são unificados em um único DataFrame e salvos no formato Parquet (`db_reclamacoes.parquet`) para as próximas fases.
+Os dados são unificados em um único DataFrame e salvos no formato Parquet (`db_reclamacoes.parquet`) para as próximas fases. Acesse https://drive.google.com/file/d/1V6tA_fRnLrZJXZv8zDxVXCmW494XNhcu/view?usp=sharing para ter acesso direto aos dados adquiridos para a pesquisa.
 
 ### 2. Pré-processamento e Limpeza (`2_database_preprocess.ipynb`)
 
